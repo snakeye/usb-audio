@@ -1,1 +1,4 @@
-# usb-audio
+# USB Audio
+
+* PCM2705
+* MAX9724
